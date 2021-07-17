@@ -1,5 +1,5 @@
 package t01_programacionoo;
-
+//Deber colaborativo
 public class Paciente {
 	private String nombre;
 
